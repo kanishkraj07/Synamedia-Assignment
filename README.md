@@ -1,7 +1,7 @@
 # Food order management assignment
 
 ## Overview
-- Built with Node.js, express, typescript, ZOD for input validation and Vitest as testing framework
+- Built with **Node.js**, **Express**, **Typescript**, **Zod** for input validation and **Vitest** as testing framework
 - Added 5 Food Order APIS along with error validations for each.
 - Added Testcases for all apis (Code coverage: 100%)
 
