@@ -1,0 +1,23 @@
+{
+  "name": "food-delivery-order-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/supertest": "^6.0.2",
+    "express": "^4.21.0",
+    "supertest": "^7.0.0",
+    "vitest": "^2.1.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.1"
+  }
+}
