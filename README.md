@@ -61,7 +61,7 @@
 
 # Steps to run the server
 
-## Prerequistis
+## Prerequisites
 
 - Need to have Node and typescript in local.
 
